@@ -1,0 +1,1 @@
+<span class='error' style="color: red;">INVALID INFOMATION</span>
